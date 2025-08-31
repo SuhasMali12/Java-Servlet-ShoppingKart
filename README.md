@@ -42,7 +42,7 @@ ShoppingKartProject/
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/<your-username>/ShoppingKartProject.git
+   git clone https://github.com/SuhasMali12/ShoppingKartProject.git
    ```
 
 2. **Database Setup (PostgreSQL)**
@@ -70,20 +70,12 @@ ShoppingKartProject/
    - Copy project to `webapps/` folder of Tomcat
    - Start Tomcat server
    - Visit: `http://localhost:8080/ShoppingKartProject`
-
 ---
 
 ## 📊 CRUD Dataflow
 Below diagram shows how Product operations flow through JSP → Servlet → JDBC → PostgreSQL.
 
-![CRUD Dataflow](ShoppingKart_Product_CRUD_DataFlow.jpg)
-
----
-
-## 📸 Screenshots
-(Add screenshots of your JSP pages here)
-
----
+![CRUD Dataflow](ShoppingKart_DataFlow.jpg)
 
 ## 🤝 Contribution
 Pull requests are welcome!  
@@ -93,10 +85,7 @@ For major changes, please open an issue first to discuss what you’d like to ch
 
 ## 👨‍💻 Author
 - **Suhas Mali**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: @SuhasMali12
 - Built as part of Java Full Stack Development course @ QSpiders
 
 ---
-
-## 📜 License
-This project is licensed under the MIT License.
